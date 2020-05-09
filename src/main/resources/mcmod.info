@@ -1,0 +1,16 @@
+[
+{
+  "modid": "antispawn block",
+  "name": "Anti Mob-spawn block",
+  "description": "Some blocks, that prevent spawn mobs on it.",
+  "version": "0.0.1-alpha",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AiKiraFive"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

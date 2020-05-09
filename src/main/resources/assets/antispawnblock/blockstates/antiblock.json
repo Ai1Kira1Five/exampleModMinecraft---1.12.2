@@ -1,0 +1,10 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "antispawnblock:antiblock"
+	},
+	"variants": {
+		"normal": [{}],
+		"inventory": [{}]
+	}
+}
